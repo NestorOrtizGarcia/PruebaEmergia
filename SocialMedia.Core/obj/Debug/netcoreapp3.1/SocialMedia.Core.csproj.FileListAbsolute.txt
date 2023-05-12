@@ -1,0 +1,10 @@
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.deps.json
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.csproj.AssemblyReference.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.AssemblyInfo.cs
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.pdb

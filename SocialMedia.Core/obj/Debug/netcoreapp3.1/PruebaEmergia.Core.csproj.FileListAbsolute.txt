@@ -1,0 +1,10 @@
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\PruebaEmergia.Core.deps.json
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\PruebaEmergia.Core.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\bin\Debug\netcoreapp3.1\PruebaEmergia.Core.pdb
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.csproj.AssemblyReference.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.AssemblyInfoInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.AssemblyInfo.cs
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.csproj.CoreCompileInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Core\obj\Debug\netcoreapp3.1\PruebaEmergia.Core.pdb

@@ -1,0 +1,16 @@
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.deps.json
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.runtimeconfig.json
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.runtimeconfig.dev.json
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.pdb
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Core.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\bin\Debug\netcoreapp3.1\PruebaEmergia.Core.pdb
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.AssemblyInfo.cs
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.csproj.CopyComplete
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.dll
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.pdb
+C:\Users\kael-\source\repos\SocialMedia2\SocialMedia.Infrastructure\obj\Debug\netcoreapp3.1\PruebaEmergia.Infrastructure.genruntimeconfig.cache
